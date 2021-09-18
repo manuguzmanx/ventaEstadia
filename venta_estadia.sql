@@ -54,7 +54,7 @@ INSERT INTO Ticket (formaPago, razonSocial, direccion, idDetalleVenta)VALUES('Ta
 
 #Ventas del día con detalle
 SELECT * FROM Venta, DetalleVenta
-WHERE Venta.idVenta = DetalleVenta.idVenta;
+WHERE Venta.idVenta = DetalleVenta.idVenta AND Venta.fechaVenta = curdate();
 
 #Tickets del día
 SELECT * FROM Ticket;
