@@ -1,0 +1,9 @@
+A.	Docker: Software que permite el empaquetado de aplicaciones (y todas sus dependencias y necesidades para ser ejecutadas) en contenedores que vuelven a la aplicación portable para ejecutarse en diferentes entornos y mantenerse liviana y veloz.
+B.	API: Es un sistema intermedio entre dos aplicaciones para permitir la interacción e integración entre ellas y se aprovechen sus funcionalidades.
+C.	Microservicio: Es un elemento funcional e independiente de un software que se ejecuta de forma autónoma, por lo que se facilita su desarrollo y mantenimiento.
+D.	Persistencia: Es la capacidad de preservar información independientemente de los procesos que la manipulen.
+E.	Transacción: Es un proceso en ejecución en una base de datos que incluye una o varias operaciones. Debe ser realizada en su totalidad o no hacerse, no puede quedar a medias.
+F.	Responsivo: Que es de apariencia adaptable a cualquier dispositivo en que se esté ejecutando.
+G.	SCRUM: Es una metodología para el desarrollo de software que se basa en entregables de valor en periodos cortos. También se basa en iteraciones, colaboración e interacción con el cliente y flexibilidad a cambios.   
+H.	Ágil: Se refiere a la capacidad de adaptarse a la evolución de los requerimientos y soluciones en el desarrollo de un proyecto.
+I.	Sprint: Es un ciclo en el que se genera un entregable para el cliente.
